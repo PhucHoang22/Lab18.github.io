@@ -1,0 +1,28 @@
+.bg-img1 {
+  background-size: cover;
+  height: 100vh;
+  background-image: linear-gradient(rgba(245, 235, 235, 0.11), #0000008f),
+    url(./Tokyo.jpg);
+}
+.bg-img2 {
+  background-size: cover;
+  background-image: linear-gradient(rgba(245, 235, 235, 0), #0000008f),
+    url(./kyoto-kyoto-color-guide-226822.jpg);
+  height: 100vh;
+}
+.bg-img3 {
+  background-size: cover;
+  background-image: linear-gradient(rgba(245, 235, 235, 0), #0000006b),
+    url(./Osaka_Castle_Grounds.avif);
+  height: 100vh;
+}
+.container-foot {
+  padding-left: 30px;
+  align-items: center;
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+}
+.backtotop {
+  margin-left: 660px;
+}
